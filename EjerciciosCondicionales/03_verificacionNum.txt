@@ -1,0 +1,6 @@
+Escribe un programa que determine si un número entero proporcionado por el usuario es par y múltiplo de 5. El programa debe:
+
+Preguntar al usuario por un número entero.
+Verificar si el número es par.
+Verificar si el número es múltiplo de 5.
+Imprimir mensajes indicando si el número cumple con ambas condiciones, solo una de ellas, o ninguna.
