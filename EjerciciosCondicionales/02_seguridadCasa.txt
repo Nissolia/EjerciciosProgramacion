@@ -1,0 +1,14 @@
+Escribe un programa que simule un sistema de seguridad para una casa. El sistema debe realizar las siguientes verificaciones:
+
+La puerta debe estar cerrada.
+La ventana debe estar cerrada.
+La alarma debe estar activada.
+El programa debe:
+
+Preguntar al usuario si la puerta está cerrada (responder 's' para sí y 'n' para no).
+Preguntar al usuario si la ventana está cerrada (responder 's' para sí y 'n' para no).
+Preguntar al usuario si la alarma está activada (responder 's' para sí y 'n' para no).
+Usar una estructura if para verificar si alguna de las condiciones (puerta abierta, ventana abierta o alarma desactivada) no se cumple, e imprimir "La casa no está segura".
+Usar un switch para proporcionar un mensaje adicional basado en el estado de la alarma:
+Si la alarma está activada, imprimir "Alarma activada".
+Si la alarma está desactivada, imprimir "Alarma desactivada".
