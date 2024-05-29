@@ -1,0 +1,16 @@
+/*Escribe un programa que determine si una persona puede entrar a un club nocturno. Para poder entrar, una persona debe cumplir con las siguientes condiciones:
+
+Tener al menos 18 años.
+Tener un permiso especial si es menor de 21 años.
+El programa debe:
+
+Preguntar al usuario su edad.
+Si la edad es menor de 18 años, imprimir "No puedes entrar".
+Si la edad está entre 18 y 20 años inclusive, preguntar si tiene un permiso especial (responder 's' para sí y 'n' para no).
+Si tiene el permiso especial, imprimir "Puedes entrar con permiso".
+Si no tiene el permiso especial, imprimir "No puedes entrar".
+Si la edad es 21 años o mayor, imprimir "Puedes entrar".*/
+
+
+
+
