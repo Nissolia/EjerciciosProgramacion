@@ -1,4 +1,4 @@
-Escribe un programa en C que determine si un estudiante ha aprobado un curso. El programa debe cumplir con las siguientes condiciones:
+Escribe un programa que determine si un estudiante ha aprobado un curso. El programa debe cumplir con las siguientes condiciones:
 
 La calificación del examen final debe ser al menos 50.
 Si la calificación del examen final está entre 45 y 49 inclusive, el estudiante puede aprobar si ha completado un proyecto extra.
